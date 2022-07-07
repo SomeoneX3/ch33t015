@@ -28,8 +28,8 @@ h1.cursor::after {
 }
 
 p.cursor::after {
-  height: 10px;
-  width: 5px;
+  height: 24px;
+  width: 13px;
 }
 
 @keyframes blink {
