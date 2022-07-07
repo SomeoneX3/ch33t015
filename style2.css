@@ -23,13 +23,13 @@ body {
 }
 
 h1.cursor::after {
-  height: 24px;
-  width: 13px;
+  height: 30px;
+  width: 14px;
 }
 
 p.cursor::after {
-  height: 24px;
-  width: 13px;
+  height: 30px;
+  width: 14px;
 }
 
 @keyframes blink {
